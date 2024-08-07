@@ -34,4 +34,4 @@ salary|The employee's salary (U.S. dollars)
 - Random Forest
 - XGBoost
   
-**Best Model AUC Score:** 87.00
+**Best Model AUC Score:** 96.00
