@@ -30,6 +30,7 @@ salary|The employee's salary (U.S. dollars)
 # Algorithms
 
 - Logistic Regression
+- Decision Tree
 - Random Forest
 - XGBoost
   
